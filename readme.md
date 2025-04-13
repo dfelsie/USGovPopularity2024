@@ -48,3 +48,10 @@ Here are the results:
 | Wyoming        | Mark Gordon            | Republican | 34.8%           | +45.8%       | -27.3%      | 1\*             |
 | Oklahoma       | Kevin Stitt            | Republican | 41.5%           | +34.3%       | -29.2%      | 2               |
 | Idaho          | Brad Little            | Republican | 28.1%           | +36.5%       | -37.1%      | 1\*             |
+
+
+A few notes:
+
+A few govs had no polls from morningconsult at all, so they have been excluded: that's why the table doesn't have 50 rows.
+Some of these governors have very few associated polls, so take their numbers with a grain of salt. Sorry Brad Little: you're (probably) not really this unpopular.
+Governors are pretty popular! I think this methodology has some value, but it probably overstates the how skilled some governors are, if they're in states that voted one way for president, but the opposite for governor. This is how Scott and Beshear can have such incredible margins.
