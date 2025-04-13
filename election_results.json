@@ -1,0 +1,210 @@
+[
+  { "state": "Alabama", "republican_percent": 64.57, "democrat_percent": 34.1 },
+  { "state": "Alaska", "republican_percent": 54.54, "democrat_percent": 41.41 },
+  {
+    "state": "Arizona",
+    "republican_percent": 47.22,
+    "democrat_percent": 46.69
+  },
+  {
+    "state": "Arkansas",
+    "republican_percent": 64.2,
+    "democrat_percent": 33.56
+  },
+  {
+    "state": "California",
+    "republican_percent": 38.33,
+    "democrat_percent": 58.47
+  },
+  {
+    "state": "Colorado",
+    "republican_percent": 43.14,
+    "democrat_percent": 54.43
+  },
+  {
+    "state": "Connecticut",
+    "republican_percent": 41.89,
+    "democrat_percent": 56.4
+  },
+  {
+    "state": "Delaware",
+    "republican_percent": 41.79,
+    "democrat_percent": 56.49
+  },
+  {
+    "state": "District of Columbia",
+    "republican_percent": 6.47,
+    "democrat_percent": 90.26
+  },
+  {
+    "state": "Florida",
+    "republican_percent": 56.09,
+    "democrat_percent": 42.99
+  },
+  {
+    "state": "Georgia",
+    "republican_percent": 50.72,
+    "democrat_percent": 48.33
+  },
+  { "state": "Hawaii", "republican_percent": 37.48, "democrat_percent": 60.59 },
+  { "state": "Idaho", "republican_percent": 66.87, "democrat_percent": 30.38 },
+  {
+    "state": "Illinois",
+    "republican_percent": 43.47,
+    "democrat_percent": 54.37
+  },
+  {
+    "state": "Indiana",
+    "republican_percent": 58.58,
+    "democrat_percent": 39.62
+  },
+  { "state": "Iowa", "republican_percent": 55.73, "democrat_percent": 42.52 },
+  { "state": "Kansas", "republican_percent": 57.16, "democrat_percent": 41.04 },
+  {
+    "state": "Kentucky",
+    "republican_percent": 64.47,
+    "democrat_percent": 33.94
+  },
+  {
+    "state": "Louisiana",
+    "republican_percent": 60.22,
+    "democrat_percent": 38.21
+  },
+  { "state": "Maine", "republican_percent": 45.46, "democrat_percent": 52.4 },
+  { "state": "ME-1", "republican_percent": 38.09, "democrat_percent": 59.69 },
+  { "state": "ME-2", "republican_percent": 53.5, "democrat_percent": 44.46 },
+  {
+    "state": "Maryland",
+    "republican_percent": 34.08,
+    "democrat_percent": 62.62
+  },
+  {
+    "state": "Massachusetts",
+    "republican_percent": 36.02,
+    "democrat_percent": 61.22
+  },
+  {
+    "state": "Michigan",
+    "republican_percent": 49.73,
+    "democrat_percent": 48.31
+  },
+  {
+    "state": "Minnesota",
+    "republican_percent": 46.68,
+    "democrat_percent": 50.92
+  },
+  {
+    "state": "Mississippi",
+    "republican_percent": 60.89,
+    "democrat_percent": 36.0
+  },
+  {
+    "state": "Missouri",
+    "republican_percent": 58.49,
+    "democrat_percent": 40.08
+  },
+  {
+    "state": "Montana",
+    "republican_percent": 58.39,
+    "democrat_percent": 38.46
+  },
+  {
+    "state": "Nebraska",
+    "republican_percent": 58.32,
+    "democrat_percent": 38.86
+  },
+  { "state": "NE-1", "republican_percent": 55.49, "democrat_percent": 42.52 },
+  { "state": "NE-2", "republican_percent": 46.73, "democrat_percent": 51.32 },
+  { "state": "NE-3", "republican_percent": 76.03, "democrat_percent": 22.44 },
+  { "state": "Nevada", "republican_percent": 50.59, "democrat_percent": 47.49 },
+  {
+    "state": "New Hampshire",
+    "republican_percent": 47.97,
+    "democrat_percent": 50.65
+  },
+  {
+    "state": "New Jersey",
+    "republican_percent": 46.05,
+    "democrat_percent": 51.97
+  },
+  {
+    "state": "New Mexico",
+    "republican_percent": 45.83,
+    "democrat_percent": 51.85
+  },
+  {
+    "state": "New York",
+    "republican_percent": 43.31,
+    "democrat_percent": 55.91
+  },
+  {
+    "state": "North Carolina",
+    "republican_percent": 50.86,
+    "democrat_percent": 47.65
+  },
+  {
+    "state": "North Dakota",
+    "republican_percent": 65.96,
+    "democrat_percent": 30.51
+  },
+  { "state": "Ohio", "republican_percent": 55.14, "democrat_percent": 43.93 },
+  {
+    "state": "Oklahoma",
+    "republican_percent": 66.16,
+    "democrat_percent": 31.9
+  },
+  { "state": "Oregon", "republican_percent": 40.97, "democrat_percent": 55.27 },
+  {
+    "state": "Pennsylvania",
+    "republican_percent": 50.37,
+    "democrat_percent": 48.66
+  },
+  {
+    "state": "Rhode Island",
+    "republican_percent": 41.76,
+    "democrat_percent": 55.54
+  },
+  {
+    "state": "South Carolina",
+    "republican_percent": 58.23,
+    "democrat_percent": 40.36
+  },
+  {
+    "state": "South Dakota",
+    "republican_percent": 63.43,
+    "democrat_percent": 34.24
+  },
+  {
+    "state": "Tennessee",
+    "republican_percent": 64.19,
+    "democrat_percent": 34.47
+  },
+  { "state": "Texas", "republican_percent": 56.14, "democrat_percent": 42.46 },
+  { "state": "Utah", "republican_percent": 59.38, "democrat_percent": 37.79 },
+  {
+    "state": "Vermont",
+    "republican_percent": 32.32,
+    "democrat_percent": 65.63
+  },
+  {
+    "state": "Virginia",
+    "republican_percent": 46.05,
+    "democrat_percent": 51.83
+  },
+  {
+    "state": "Washington",
+    "republican_percent": 39.01,
+    "democrat_percent": 57.23
+  },
+  {
+    "state": "West Virginia",
+    "republican_percent": 69.97,
+    "democrat_percent": 28.1
+  },
+  {
+    "state": "Wisconsin",
+    "republican_percent": 49.62,
+    "democrat_percent": 48.74
+  },
+  { "state": "Wyoming", "republican_percent": 71.6, "democrat_percent": 25.84 }
+]
